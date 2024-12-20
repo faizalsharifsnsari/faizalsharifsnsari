@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizal Sharif Ansari</h1>
 <h3 align="center">A passionate Student from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
 
 - 🔭 I’m currently working on [Bloood-Donation-Application](https://github.com/faizalsharifsnsari/BloodDonation)
 
